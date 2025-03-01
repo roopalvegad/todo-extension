@@ -1,0 +1,48 @@
+[
+  {
+    "completed": false,
+    "createdAt": "2025-02-24T09:07:17.729Z",
+    "description": "Buy grocereies",
+    "id": "694a33dc-7196-4308-a469-c8c5bcd5250a",
+    "tags": [
+      "personal"
+    ]
+  },
+  {
+    "completed": false,
+    "createdAt": "2025-02-24T09:07:29.047Z",
+    "description": "Clean my wardrobe",
+    "id": "dd6a90d6-1e0b-4c37-8879-9c6cbd001aaa",
+    "tags": [
+      "personal"
+    ]
+  },
+  {
+    "completed": false,
+    "createdAt": "2025-02-24T09:08:05.179Z",
+    "description": "Do math homework",
+    "id": "c50d93eb-b432-4943-bf12-9be53efb271d",
+    "tags": [
+      "school"
+    ]
+  },
+  {
+    "completed": false,
+    "createdAt": "2025-02-24T09:08:27.996Z",
+    "description": "Call Mohit",
+    "id": "c06851a2-0983-4cf4-8dea-34e8c89f0869",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "completed": false,
+    "createdAt": "2025-02-24T09:47:18.090Z",
+    "description": "Make a To Do app",
+    "id": "3b35615e-0270-4e35-bd3d-0f081cc98aff",
+    "tags": [
+      "coding",
+      "personal"
+    ]
+  }
+]
